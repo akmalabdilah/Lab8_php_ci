@@ -320,8 +320,8 @@ Gambar 15.Menambah Fungsi_Logout
 Buka url dengan alamat http://localhost:8080/artikel<br>
 Selanjutnya saya coba masuk Login dengan memasukkan kode :
 
-**`Email :akmalabdilah5@gmail.com`**<br>
-**`Password :akmal12321`**
+**`Email :akmalabdilah6@gmail.com`**<br>
+**`Password :akmal123321`**
 
 ![11_Lab11Web](Gambar/79.Gambar_Login_admin.jpg)
 
